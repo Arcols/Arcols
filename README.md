@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 | I'm Arthur
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcols&layout=compact&theme=github_dark_dimmed" />
 </div>
