@@ -14,7 +14,7 @@ I'm a second-year student pursuing a **BUT in Computer Science** at **IUT Paul S
 ### 📚 My Projects:
 - **[Java Application](https://github.com/Arcols/Fromages)**: Database management and user interface design.
 - **[Hashi Solver in Ada](https://github.com/Arcols/HashiResolver)**: Automatic grid solving with optimization algorithms.
-- **[Shortest Path Algorithms in Python]((https://github.com/Arcols/Exploration-algorithmique-d-un-probleme))**: Implementation of Dijkstra and Bellman-Ford algorithms for weighted graphs.
+- **[Shortest Path Algorithms in Python](https://github.com/Arcols/Exploration-algorithmique-d-un-probleme)**: Implementation of Dijkstra and Bellman-Ford algorithms for weighted graphs.
 - **[LeetCode](https://github.com/Arcols/leetcode)**: All the problems I have done on leetcode
 ---
 
