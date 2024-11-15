@@ -22,7 +22,7 @@ I'm a second-year student pursuing a **BUT in Computer Science** at **IUT Paul S
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcols&layout=compact&theme=github_dark_dimmed" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Arcols&show_icons=true&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rperrot42&show_icons=true&theme=github_dark_dimmed" />
 </div>
 
 ---
