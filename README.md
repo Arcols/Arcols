@@ -5,7 +5,7 @@ I'm a second-year student pursuing a **BUT in Computer Science** at **IUT Paul S
 
 ### 🔧 Technologies & Tools:
 - **Languages:** Java, Python, Ada, C  
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, JavaScrypt
 - **Backend:** SQL, PHP  
 - **Other Tools:** MindView, Excel, Word
 -- **Agiles Methods:** Scrum
