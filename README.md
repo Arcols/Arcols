@@ -13,7 +13,7 @@ I'm a second-year student pursuing a **BUT in Computer Science** at **IUT Paul S
 
 ### 📚 My Projects:
 - **Java Applications**
-    - **[Property Management](https://github.com/Arcols/immolink)**: This application provides a robust solution for managing real estate portfolios. Features include property listings, tenant databases, lease agreements, and financial tracking.
+    - **[Immolink](https://github.com/Arcols/immolink)**: This application provides a robust solution for managing real estate portfolios. Features include property listings, tenant databases, lease agreements, and financial tracking.
     - **[Cheese Database](https://github.com/Arcols/Fromages)**: A sample application showcasing database management and user interface design principles.
 - **[Hashi Solver in Ada](https://github.com/Arcols/HashiResolver)**: Automatic grid solving with optimization algorithms.
 - **[Shortest Path Algorithms in Python](https://github.com/Arcols/Exploration-algorithmique-d-un-probleme)**: Implementation of Dijkstra and Bellman-Ford algorithms for weighted graphs.
