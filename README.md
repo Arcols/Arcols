@@ -8,7 +8,7 @@ I'm a second-year student pursuing a **BUT in Computer Science** at **IUT Paul S
 - **Frontend:** HTML, CSS, JavaScrypt
 - **Backend:** SQL, PHP, Java jdbc  
 - **Other Tools:** MindView, Excel, Word
--- **Agiles Methods:** Scrum
+- **Agiles Methods:** Scrum
 ---
 
 ### 📚 My Projects:
