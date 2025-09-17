@@ -1,7 +1,7 @@
 ## Hi there 👋 | I'm Arthur Colson
 
-**👨‍💻 About Me:**  
-I'm a second-year student pursuing a **BUT in Computer Science** at **IUT Paul Sabatier**. I'm passionate about development, algorithms, and creating optimized solutions. I enjoy problem-solving, teamwork, and have a keen interest in photography and triathlon.
+**👨‍💻 About Me:**
+I'm a first-year engineering student at **IMT Atlantique Nantes**, passionate about development, algorithms, and creating optimized solutions. I enjoy problem-solving, teamwork, and have a keen interest in photography and triathlon.
 
 ### 🔧 Technologies & Tools:
 - **Languages:** Java, Python, Ada, C  
