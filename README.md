@@ -21,10 +21,13 @@ I'm a first-year engineering student at **IMT Atlantique Nantes**, passionate ab
 ---
 
 ### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcols&layout=compact&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcols&layout=compact&theme=github_dark_dimmed&hide_border=true" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Arcols&show_icons=true&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arcols&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arcols&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
