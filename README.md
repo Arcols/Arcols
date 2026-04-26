@@ -22,6 +22,4 @@ I'm a first-year engineering student at **IMT Atlantique Nantes**, passionate ab
 
 </div>
 
----
-
 Feel free to check out my repositories and reach out if you'd like to collaborate! 
